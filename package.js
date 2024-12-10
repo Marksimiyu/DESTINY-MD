@@ -1,6 +1,6 @@
 {
-    "description": "wasisession",
-    "main": "./itxxwasi.js",
+    "description": "destinysession",
+    "main": "./mark.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
